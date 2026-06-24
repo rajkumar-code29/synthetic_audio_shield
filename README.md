@@ -6,8 +6,8 @@ Synthetic Audio Shield
    Paired with a highly accessible, assistive mobile application, this project addresses the critical intersection of cybersecurity, mental health support, and digital accessibility.
    Features:
 1. SAS - synthetic audio shield
-1. Warn Spam calls - Identify and store numbers reported by users and warn users if its likely a spam
-1. Identify Scam Script using keywords used in scam calls - warn users to not divulge sensitive information
+2. Warn Spam calls - Identify and store numbers reported by users and warn users if its likely a spam
+3. Identify Scam Script using keywords used in scam calls - warn users to not divulge sensitive information
 
 1. Problem Statement & Rationale
    2.1. The Threat Matrix: Synthetic Voice & Cognitive Vulnerability
