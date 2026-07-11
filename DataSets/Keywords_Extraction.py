@@ -115,3 +115,6 @@ with open(output_json_file, 'w', encoding='utf-8') as f:
 print(f"\n--- Dynamic Extraction Complete ---")
 print(f"Algorithm discovered {len(redis_seed_data)} high-frequency tripwire keys.")
 print(f"Saved database-ready file as: '{output_json_file}'")
+
+# Need to update in the following way 
+# auto run script and update the db for new keywords based on new datasets
