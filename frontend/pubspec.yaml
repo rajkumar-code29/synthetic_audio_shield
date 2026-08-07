@@ -1,0 +1,27 @@
+name: frontend
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  socket_io_client: ^3.0.0
+  wakelock_plus: ^1.2.0
+  http: ^1.2.0
+  twilio_voice: ^0.4.1
+  flutter_callkit_incoming: ^2.0.0
+  permission_handler: ^11.3.0
+  uuid: ^4.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
