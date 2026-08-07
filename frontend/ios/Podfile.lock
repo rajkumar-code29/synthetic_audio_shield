@@ -1,0 +1,39 @@
+PODS:
+  - CryptoSwift (1.10.0)
+  - Flutter (1.0.0)
+  - flutter_callkit_incoming (0.0.1):
+    - CryptoSwift
+    - Flutter
+  - twilio_voice (0.0.1):
+    - Flutter
+    - TwilioVoice (~> 6.13.6)
+  - TwilioVoice (6.13.6)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_callkit_incoming (from `.symlinks/plugins/flutter_callkit_incoming/ios`)
+  - twilio_voice (from `.symlinks/plugins/twilio_voice/ios`)
+
+SPEC REPOS:
+  trunk:
+    - CryptoSwift
+    - TwilioVoice
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_callkit_incoming:
+    :path: ".symlinks/plugins/flutter_callkit_incoming/ios"
+  twilio_voice:
+    :path: ".symlinks/plugins/twilio_voice/ios"
+
+SPEC CHECKSUMS:
+  CryptoSwift: e2e7776512f250e66205955da748e7a4e4abffe0
+  Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
+  flutter_callkit_incoming: 417dd1b46541cdd5d855ad795ccbe97d1c18155e
+  twilio_voice: 01978d51675b2d7ddf35667363c18ccab5d819ee
+  TwilioVoice: 04e059fd28d95423b971e823b1c1c1d6737e4e1b
+
+PODFILE CHECKSUM: 251cb053df7158f337c0712f2ab29f4e0fa474ce
+
+COCOAPODS: 1.15.2
