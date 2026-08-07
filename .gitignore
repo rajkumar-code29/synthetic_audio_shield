@@ -1,0 +1,16 @@
+# Python cache & virtual environments
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+*.pyo
+*.pyd
+
+# Environment secrets & API keys
+.env
+
+datasets/voice_data/
+
+# Testing caches
+.pytest_cache/
