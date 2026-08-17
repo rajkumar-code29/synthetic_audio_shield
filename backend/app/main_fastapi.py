@@ -1,7 +1,6 @@
 import json
 import base64
 import asyncio
-from xmlrpc import client
 from fastapi import FastAPI, WebSocket
 from faster_whisper import WhisperModel
 import httpx

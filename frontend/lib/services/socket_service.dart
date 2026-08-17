@@ -2,7 +2,7 @@ import 'dart:async';
 import 'package:socket_io_client/socket_io_client.dart' as IO;
 
 class SocketService {
-  static const String serverUrl = 'http://54.175.77.125:5000';
+  static const String serverUrl = 'http://YOUR_SERVER_IP:5000';
   late IO.Socket _socket;
 
   int _failedAttempts = 0;
